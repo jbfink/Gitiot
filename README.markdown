@@ -11,10 +11,17 @@ Gitiot is a really simple cross-platform GUI wrapper for the most minimal useful
 
 ###This Version
 
-* Version: 0.13
+* Version: 0.13-jbfink
 * Release Date: 2010-04-07
 
 ###Revision History
+
+####Version 0-13-jbfink
+* Release date 2010-04-07
+* (this is strictly a fork for myself so I can distribute this to people without them thinking I'm calling them an idiot.  Love Ryan's name -- completely appropriate -- but I gotta think diplomatic here.
+
+* Changes
+    * changed most references of gitiot to libbackup
 
 ####Version 0.13
 
