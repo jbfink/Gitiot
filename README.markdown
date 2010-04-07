@@ -5,6 +5,7 @@ Gitiot is a really simple cross-platform GUI wrapper for the most minimal useful
 ###Author
 
 * Author: Ryan McGreal
+* Totally Not The Author But Just Some Guy Futzing Around: John Fink 
 * Email: [ryan@quandyfactory.com](mailto:ryan@quandyfactory.com)
 * Homepage: [http://quandyfactory.com/projects/49/gitiot](http://quandyfactory.com/projects/49/gitiot)
 * Repository: [http://github.com/quandyfactory/gitiot](http://github.com/quandyfactory/gitiot)
