@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __title__ = 'libbackup, the one-button backup solution'
-__version__ = "0.14-jbfink"
+__version__ = "0.13-jbfink"
 __author__ = "Ryan McGreal ryan@quandyfactory.com, modified by jbfink"
 __homepage__ = "http://quandyfactory.com/projects/49/gitiot"
 __copyright__ = "(C) 2009 by Ryan McGreal. Licenced under GNU GPL 2.0\nhttp://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
